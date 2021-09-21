@@ -1,0 +1,15 @@
+El análisis arroja una puntuación de 56/100 en la versión móvil, basándome en el diagnóstico que pueden ver acá: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwynwood-house.com%2F&tab=mobile
+Mis acciones de mejora serían las siguientes:
+
+1) descarga y optimización manual con herramienta photoshop de cada imagen del sitio web, iniciando por el home, cada imagen seria comprimida y cambaiada su extensión
+para .WebP y reemplazar por las actuales. Esto ayudaría al aumento en el rendimiento de carga del sitio web.
+
+2) Para una mejora en la codificación de las imágenes, implementaría un CDN como cloudflare o en su defecto un plugin de caché con mejora en optimización de la caché de las imágenes.
+este CDN optimizaría los tiempos de respuesta del servidor, reduciendo significativamente el tiempo de carga.
+
+3) Configuraación del plugin de caché para seleccionar la carga de hojas de estilos y javascript que se ejecuta.
+
+4) cambios de links dinámicos a links estáticos.
+
+
+Estas acciones seguramente desencadenarán en una mejora en la velocidad de carga del sitio web para dispositivos móviles y un menos consumo de datos.
