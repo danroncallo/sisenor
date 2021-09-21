@@ -1,0 +1,15 @@
+En la versión para escritorio el sitio web muestra una puntuación favorable del 83/100. Cómo lo podemos corroborar en el siguiente enlace: 
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwynwood-house.com%2F&tab=desktop
+
+Sin embargo, hay oportunidades de mejora y las acciones serían las siguientes:
+
+1) Descarga y optimización manual con herramienta photoshop de cada imagen del sitio web, iniciando por el home, cada imagen seria comprimida y cambaiada su extensión
+  para .WebP y reemplazar por las actuales. Esto ayudaría al aumento en el rendimiento de carga del sitio web.
+
+2) Implementación de CDN en cloudflare, este reduciría significativamente el tiempo de respuesta inicial del servidor, creando copias de nuestro sitio a servidores más cercanos
+   a nuestra audiencia.
+   
+   
+Estas acciones seguramente desencadenarán en una mejora en la velocidad de carga del sitio web para dispositivos escritorio.
+
+
