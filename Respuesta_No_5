@@ -5,7 +5,5 @@ las sesiones directas que no ingresan por el buscador, es decir, de enlaces refe
 Las sesiones también se relacionan con el porcentaje de rebote y otros factores, que a diferencia de google search console, 
 miden el tiempo de navegación del usuario. 
 
-
-
 Para evitar confusiones, debemos discriminar con los filtros los orígenes de los clics y limitarlos, esto dará como resultado 
 una comparación más apropiada a nuestra data.
