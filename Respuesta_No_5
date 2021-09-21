@@ -1,5 +1,11 @@
-Esto fenómeno ocurre dada la naturalezas diferente de la lectura de los indicadores de rastreo de cada herramienta. Google Search Console solo mide clics, específicamente los que vienen
-del buscador. En cambio, Analytics, mide, adicional a las busquedas orgánicas, las sesiones directas que no ingresan por el buscador, es decir, de enlaces referidos. Las sesiones
-también se relacionan con el porcentaje de rebote y otros factores, que ha diferencia de google search console, miden el tiempo de navegación del usuario. 
+Este fenómeno ocurre dada la naturaleza diversa de la lectura de los indicadores de rastreo de cada herramienta. 
+Google Search Console solo mide clics que vienen del buscador. Por su parte, Analytics, valora, adicional a las búsquedas orgánicas, 
+las sesiones directas que no ingresan por el buscador, es decir, de enlaces referidos. 
 
-Para evitar confuciones, debemos discriminar con los filtros los origenes de los clics y limitarlos, esto comparaá de forma más apropiada nuestra data.
+Las sesiones también se relacionan con el porcentaje de rebote y otros factores, que a diferencia de google search console, 
+miden el tiempo de navegación del usuario. 
+
+
+
+Para evitar confusiones, debemos discriminar con los filtros los orígenes de los clics y limitarlos, esto dará como resultado 
+una comparación más apropiada a nuestra data.
